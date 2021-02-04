@@ -38,30 +38,30 @@ Este proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cl
 ## Para Correr El Proyecto.
 
 Primero pondremos a correr el Backend, parece en la carpeta backend-nodejs, digite el comando:
-$ `npm install`.
-$ luego `npm start`.
-$ crear el archivo `.env`.
-$ y por ultimo digite `node app.js`.
+`npm install`
+luego `npm start`
+crear el archivo `.env`
+y por ultimo digite `node app.js`
 
 Segundo pondremos a correr el front end, parece en la carpeta front-Angular, digite el comando:
-$ `npm install`.
-$ luego `npm start`.
-$ y por ultimo digite `ng serve -o` y se abrirá automaticamente `http: // localhost: 4200 /`
+`npm install`.
+luego `npm start`.
+y por ultimo digite `ng serve -o` y se abrirá automaticamente `http: // localhost: 4200 /`
 La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
 
 ## Ejemplo del archivo .env
 
-PORT=3000.
-IP_BD=127.0.0.1.
-PORT_BD=27017.
-NAME_BD=imagenPro.
-SECRET='asdasdasdasdasd'.
-HEIGHT_HOJA=200.
-WIDTH_HOJA=150.
-AWSID='AKIAIU2Y6GHEGBYYVDFQ'.
-AWSSECRET='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'.
-BUCKET_NAME='proteccion-ymty89'.
-DIMENSIONSWEB=60.
+PORT=3000
+IP_BD=127.0.0.1
+PORT_BD=27017
+NAME_BD=imagenPro
+SECRET='asdasdasdasdasd'
+HEIGHT_HOJA=200
+WIDTH_HOJA=150
+AWSID='AKIAIU2Y6GHEGBYYVDFQ'
+AWSSECRET='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'
+BUCKET_NAME='proteccion-ymty89'
+DIMENSIONSWEB=60
 
 ## Autor ✒️
 
