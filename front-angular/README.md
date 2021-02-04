@@ -36,16 +36,16 @@ https://github.com/angular/angular-cli
 ## Para Correr El Proyecto.
 
 Primero pondremos a correr el Backend, parece en la carpeta backend-nodejs, digite el comando:
- `npm install`, 
- luego `npm start`,
- crear el archivo `.env` 
- y por ultimo digite `node app.js`
+ $ `npm install`, 
+ $ luego `npm start`,
+ $ crear el archivo `.env` 
+ $ y por ultimo digite `node app.js`
  
 
 Segundo pondremos a correr el front end, parece en la carpeta front-Angular, digite el comando:
- `npm install`, 
- luego `npm start`,
- y por ultimo digite `ng serve -o` y se abrirá automaticamente `http: // localhost: 4200 /`. 
+ $ `npm install`, 
+ $ luego `npm start`,
+ $ y por ultimo digite `ng serve -o` y se abrirá automaticamente `http: // localhost: 4200 /`. 
 La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
 
 
@@ -64,7 +64,7 @@ DIMENSIONSWEB=60
 
 ## Autor ✒️
 
-* **Yennifer Marcela Tobon** - *todo* - [git](https://github.com/yenniferTobon?tab=repositories)
+***Yennifer Marcela Tobon** - *todo* - [git](https://github.com/yenniferTobon?tab=repositories)
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
