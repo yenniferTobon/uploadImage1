@@ -51,7 +51,7 @@ La aplicación se recargará automáticamente si cambia alguno de los archivos d
 
 ## Ejemplo del archivo .env
 
-PORT=3000
+````PORT=3000
 IP_BD=127.0.0.1
 PORT_BD=27017
 NAME_BD=imagenPro
@@ -61,7 +61,7 @@ WIDTH_HOJA=150
 AWSID='AKIAIU2Y6GHEGBYYVDFQ'
 AWSSECRET='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'
 BUCKET_NAME='proteccion-ymty89'
-DIMENSIONSWEB=60
+DIMENSIONSWEB=60```
 
 ## Autor ✒️
 
@@ -75,3 +75,4 @@ DIMENSIONSWEB=60
 <a href="https://instagram.com/yenntobon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yenntobon" height="30" width="40" /></a>
 </p>
 <br/>
+````
