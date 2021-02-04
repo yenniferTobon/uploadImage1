@@ -6,6 +6,14 @@ System that allows individual loading or massive loading of images in JPG format
 
 Este proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
+### Imagen
+
+![Subir una foto](https://github.com/yenniferTobon/uploadImage1/blob/master/front-angular/src/assets/proyectUpdate.PNG)
+
+![Lista de Fotos](https://github.com/yenniferTobon/uploadImage1/blob/master/front-angular/src/assets/proyectUpdateAllPhoto.PNG)
+
+![Subir varias Fotos](https://github.com/yenniferTobon/uploadImage1/blob/master/front-angular/src/assets/proyectUpdateUpdatePhotos.PNG)
+
 ### Instalación 🔧
 
 1. NodeJS: https://nodejs.org/es/
@@ -76,4 +84,3 @@ DIMENSIONSWEB=60
 <a href="https://instagram.com/yenntobon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yenntobon" height="30" width="40" /></a>
 </p>
 <br/>
-````
