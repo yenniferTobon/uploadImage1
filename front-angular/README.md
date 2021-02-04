@@ -1,27 +1,76 @@
-# ClienteAngular
+# Upload And Validate Image
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+Este proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
-## Development server
+## Descripción del Proyecto.
+Sistema que permite la carga individual o masiva de imágenes en formato JPG de cualquier dimensión y realiza el análisis para identificar si la imagen encaja dentro de una hoja de dimensiones específicas, si no encaja se modifica la imagen conservando la calidad y la relación.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Instalación 🔧
+1. NodeJS: https://nodejs.org/es/
+2. Google Chrome:
+https://www.google.es/chrome/browser/desktop/
+3. TypeScript:
+http://www.typescriptlang.org/
+4. Angular CLI
+https://cli.angular.io/
+https://github.com/angular/angular-cli
 
-## Code scaffolding
+5. Visual Studio Code
+• Angular 2 TypeScript Emmet
+• Angular 5 Snippets – TypeScript, Html, Angular Material...
+• Angular Language Service
+• Angular v5 Snippets
+• Angular2-inline
+• Bootstrap 4 & Font Awesome snippets
+• HTML CSS Support
+• JavaScript (ES6) code snippets
+• JS-CSS-HTML Formatter
+• JSHint
+• Material Icon Theme
+• Prettier – Code Formatter 3
+• Terminal
+• TSLint
+• TypeScript Hero
+• TypeScript Importer
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Para Correr El Proyecto.
 
-## Build
+Primero pondremos a correr el Backend, parece en la carpeta backend-nodejs, digite el comando:
+ `npm install`, 
+ luego `npm start`,
+ crear el archivo `.env` 
+ y por ultimo digite `node app.js`
+ 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Segundo pondremos a correr el front end, parece en la carpeta front-Angular, digite el comando:
+ `npm install`, 
+ luego `npm start`,
+ y por ultimo digite `ng serve -o` y se abrirá automaticamente `http: // localhost: 4200 /`. 
+La aplicación se recargará automáticamente si cambia alguno de los archivos de origen.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Ejemplo del archivo .env
+PORT=3000
+IP_BD=127.0.0.1
+PORT_BD=27017
+NAME_BD=imagenPro
+SECRET='asdasdasdasdasd'
+HEIGHT_HOJA=200
+WIDTH_HOJA=150
+AWSID='AKIAIU2Y6GHEGBYYVDFQ'
+AWSSECRET='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'
+BUCKET_NAME='proteccion-ymty89'
+DIMENSIONSWEB=60
 
-## Running end-to-end tests
+## Autor ✒️
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* **Yennifer Marcela Tobon** - *todo* - [git](https://github.com/yenniferTobon?tab=repositories)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3 align="left">Contáctame:</h3>
+<p align="left">
+<a href="https://twitter.com/tobonyennifer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tobonyennifer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yennifertobon25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yennifertobon25" height="30" width="40" /></a>
+<a href="https://fb.com/yennifertobon25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yennifertobon25" height="30" width="40" /></a>
+<a href="https://instagram.com/yenntobon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yenntobon" height="30" width="40" /></a>
+</p>
+<br/>
